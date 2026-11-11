@@ -1,0 +1,62 @@
+recordCount|{n} registros|{n} registrations|{n} 项注册
+until|Até {year}|Through {year}|截至 {year} 年
+filterAll|Brasil · {scope} · até {year}|Brazil · {scope} · through {year}|巴西 · {scope} · 截至 {year} 年
+filterSelected|{state} · {scope} · até {year}|{state} · {scope} · through {year}|{state} · {scope} · 截至 {year} 年
+coverage|{pct}% dos registros têm relato numérico vinculado|{pct}% of registrations have a linked numerical report|{pct}% 的注册有关联数值报告
+noRecords|Sem registros no recorte|No registrations in this selection|当前筛选无注册记录
+mapSelect|Clique em um estado para filtrar|Select a state to filter|点击州进行筛选
+mapSelected|{state} selecionado|{state} selected|已选择 {state}
+mapFilterAria|{state}: {n} registros. Filtrar estado.|{state}: {n} registrations. Filter this state.|{state}：{n} 项注册。筛选此州。
+play|Reproduzir evolução dos registros|Play the registration timeline|播放注册时间轴
+pause|Pausar evolução|Pause the timeline|暂停时间轴
+chartContext|{state} · primeiro registro até {year}|{state} · first registration through {year}|{state} · 首次注册截至 {year} 年
+leadingFamily|{n} registros · {pct}% do recorte. Contagem não mede produção ou faturamento.|{n} registrations · {pct}% of the selection. Counts do not measure output or revenue.|{n} 项注册 · 占筛选结果的 {pct}%。数量不代表产量或收入。
+emptyFilters|Nenhum registro nesta combinação. Ajuste ou limpe os filtros.|No registrations match. Adjust or clear the filters.|没有匹配的注册记录。请调整或清除筛选条件。
+insightConcentration|CONCENTRAÇÃO TERRITORIAL|TERRITORIAL CONCENTRATION|地域集中度
+concentrationTitle|dos registros nas {n} UFs líderes|of registrations in the top {n} states|的注册分布在前 {n} 个州
+concentrationText|{states} abrangem {n} registros únicos do seu recorte.|{states} cover {n} unique registrations in your selection.|{states} 覆盖当前筛选中 {n} 项不重复注册。
+concentrationLimit|Sem dupla contagem de registros multiestaduais neste percentual.|Multi-state registrations are counted only once in this percentage.|此百分比对跨州注册去重计算。
+insightRecent|RECONHECIMENTOS RECENTES|RECENT RECOGNITIONS|近期认定
+recentTitle|primeiros registros de {from} a {to}|first registrations from {from} to {to}|{from}—{to}年首次注册
+recentText|{pct}% do recorte atual tem sua primeira data nesta janela de cinco anos.|{pct}% of the current selection has its first date within this five-year window.|当前筛选中 {pct}% 的注册，其首次日期位于该五年区间。
+recentLimit|Mede a data do registro, não crescimento de vendas ou produção.|Measures registration dates, not sales or production growth.|衡量注册日期，而非销售或生产增长。
+insightTypes|PERFIL DO RECONHECIMENTO|RECOGNITION PROFILE|认定类型构成
+mixTitle|de Denominações de Origem (DO)|Denominations of Origin (DO)|为原产地名称（DO）
+mixText|{ip} IP · {do} DO. As duas espécies compõem os registros selecionados.|{ip} IP · {do} DO. Both recognition types make up your selection.|{ip} 项 IP · {do} 项 DO。两种类型共同构成当前筛选结果。
+mixLimit|Espécie nas listas atuais. Não é um ranking de qualidade.|Type in the current lists. This is not a quality ranking.|采用当前名录中的类型，并非品质排名。
+evidenceLimit|Limite da evidência.|Evidence limitation.|证据局限。
+evidenceEmpty|Nenhuma evidência numérica para este recorte na curadoria. O efeito sobre o preço permanece não estimado.|No numerical evidence for this selection in the curated cases. The price effect remains unestimated.|整理的案例中，没有与当前筛选匹配的数值证据。价格效应仍未估算。
+evidenceNote|{n} casos vinculados à seleção. O ano da linha do tempo filtra registros, não a data das evidências. Relato de preço não é efeito causal; expectativa não é resultado observado.|{n} cases linked to the selection. The timeline filters registrations, not evidence publication dates. A price report is not a causal effect; an expectation is not an observed outcome.|当前筛选关联 {n} 个案例。时间轴筛选注册日期，而非证据发布日期。价格报告不等于因果效应，预期不等于观测结果。
+tableCount|{n} registros no recorte · fonte: listas oficiais do INPI.|{n} registrations in scope · source: official INPI lists.|筛选范围内 {n} 项注册 · 来源：INPI 官方名录。
+expectation|Expectativa|Expectation|预期
+reported|Relato publicado|Published report|已发布报告
+unestimated|Não estimado|Not estimated|未估算
+pageInfo|Página {page} de {pages} · {n} registros|Page {page} of {pages} · {n} registrations|第 {page} 页，共 {pages} 页 · {n} 项注册
+productService|PRODUTO / SERVIÇO|PRODUCT / SERVICE|产品 / 服务
+applicant|REQUERENTE · NOME OFICIAL|APPLICANT · OFFICIAL NAME|申请人 · 官方名称
+registrationChanges|REGISTRO E ALTERAÇÕES|REGISTRATION & CHANGES|注册与变更
+territory|DELIMITAÇÃO INFORMADA NA LISTA|BOUNDARIES AS LISTED|名录中的区域描述
+valueEvidence|EVIDÊNCIA DE VALORIZAÇÃO|EVIDENCE OF PRICE GAINS|价格提升证据
+noEvidenceDetail|Não estimada nesta curadoria. Não equivale a valorização zero.|Not estimated in this curation. This does not imply zero price gains.|本次整理未估算。并不意味着价格提升为零。
+officialSource|Consultar lista oficial no INPI ↗|View the official INPI list ↗|查看 INPI 官方名录 ↗
+officialText|Texto oficial original (português)|Original official text (Portuguese)|官方原始文本（葡萄牙语）
+originalNote|Nomes e descrição legal preservados para conferência com a fonte.|Names and legal descriptions are preserved for comparison with the source.|保留名称与法律描述，便于与来源核对。
+firstRegistration|Primeiro registro: {date}|First registration: {date}|首次注册：{date}
+currentType|Espécie na base: {type}|Type in dataset: {type}|数据中的类型：{type}
+simInvalid|Preencha valores válidos: preço maior que zero; volume e custos não negativos; adesão entre 0% e 100%; prêmio de −100% a 1.000%.|Enter valid values: price above zero; non-negative volume and costs; adoption from 0% to 100%; premium from −100% to 1,000%.|请输入有效数值：价格大于零；销量与成本非负；使用率为 0%—100%；溢价为 −100%—1,000%。
+simAdjust|Ajuste as premissas para calcular.|Adjust the assumptions to calculate.|请调整假设以进行计算。
+simSummary|{units} unidades com selo · preço no cenário: {price}/unidade.|{units} labelled units · scenario price: {price}/unit.|使用标志的产品为 {units} 单位 · 情景价格：每单位 {price}。
+simNegative|Os custos adicionais superam a receita adicional.|Additional costs exceed additional revenue.|新增成本超过新增收入。
+simPositive|Saldo após os custos incrementais informados.|Balance after the incremental costs entered.|扣除已输入新增成本后的余额。
+breakEven|Equilíbrio: {pct}%|Break-even: {pct}%|平衡溢价：{pct}%
+breakEvenNA|Equilíbrio: não calculável|Break-even: not calculable|盈亏平衡：无法计算
+simAbove|O prêmio está {gap} pontos percentuais acima do equilíbrio.|The premium is {gap} percentage points above break-even.|溢价高于盈亏平衡点 {gap} 个百分点。
+simBelow|Faltam {gap} pontos percentuais de prêmio para cobrir os custos extras.|The premium needs {gap} more percentage points to cover extra costs.|溢价还需提高 {gap} 个百分点，才能覆盖新增成本。
+simAt|O cenário cobre exatamente os custos adicionais.|This scenario exactly covers the additional costs.|此情景恰好覆盖新增成本。
+simNoUnits|Sem unidades com selo, não há receita de prêmio; os custos fixos informados permanecem.|With no labelled units, there is no premium revenue; entered fixed costs remain.|没有标志产品时，不产生溢价收入，但已输入的固定成本仍然存在。
+netLabel|Saldo incremental|Incremental balance|净增收益
+zeroLabel|Saldo zero|Zero balance|零余额
+premiumTooltip|Prêmio hipotético: {pct}%|Hypothetical premium: {pct}%|假设溢价：{pct}%
+premiumAxis|Prêmio de preço (%)|Price premium (%)|价格溢价（%）
+thousands|{n} mil|{n}k|{n}千
+csvName|origem-brasil-recorte|origem-brasil-selection|origem-brasil-selection

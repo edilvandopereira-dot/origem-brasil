@@ -1,0 +1,138 @@
+skip|Skip to content|跳至内容
+nav|Main navigation|主导航
+navAtlas|Atlas|地图集
+navInsights|Insights|数据洞察
+navValue|Origin & value|产地与价值
+navSim|Simulator|情景模拟
+navData|Explore data|数据查询
+language|Language|语言
+heroEyebrow|GEOGRAPHICAL INDICATION INTELLIGENCE|地理标志数据洞察
+heroTitle|Every origin.<br>A <em>value of its own.</em>|每一处产地，<br>都有<em>独特价值。</em>
+heroText|Discover products shaped by the identity of a place. Explore territories, uncover patterns and understand the value of Brazilian origin.|探索承载地方特色的巴西产品，了解产地分布，发现数据规律，认识原产地的价值。
+explore|Explore Brazil|探索巴西
+readInsights|Discover the insights|查看数据洞察
+heroSource|INPI data · September and October 2026 snapshot|INPI 数据 · 2026年9月及10月快照
+heroMapCaption|ONE COUNTRY, MANY ORIGINS|一个国家，多样产地
+heroRegistrations|product registrations|项产品注册
+heroDataNote|Stories revealed by the map.|从地图中发现产地故事。
+overview|Dataset overview|数据概览
+journey1|Explore the territory|探索产地
+journey2|Interpret the evidence|解读证据
+journey3|Test a scenario|测试情景
+methodLink|Sources & methodology ↗|来源与方法 ↗
+atlasEyebrow|01 / ATLAS OF ORIGINS|01 / 产地地图集
+atlasTitle|Brazil, in every detail.|从每一处细节，认识巴西。
+atlasSubtitle|Connect products and territories. All indicators below follow your selection.|关联产品与产地。以下所有指标均随筛选条件更新。
+reset|↺ Clear filters|↺ 清除筛选
+searchLabel|Product or territory|产品或产地
+searchPlaceholder|Coffee, Canastra, municipality…|咖啡、Canastra、城市…
+categoryLabel|Product family|产品类别
+allProducts|All products|全部产品
+stateLabel|State|州
+allBrazil|All of Brazil|巴西全国
+bothTypes|IP + DO|IP + DO
+ip|Indication of Provenance (IP)|来源标志（IP）
+do|Denomination of Origin (DO)|原产地名称（DO）
+typeLabel|Recognition type|认定类型
+scopeLabel|Scope|范围
+products|Products|产品
+productsServices|Products + services|产品与服务
+filterLive|Insights for your selected scope|当前筛选范围的数据
+kTotal|Registrations in scope|筛选范围内的注册数
+kStates|States covered|覆盖州数
+kStatesNote|One GI may cover multiple states|一项地理标志可跨越多个州
+kCategories|Product families|产品类别数
+kCategoriesNote|Editorial classification of the portal|本门户采用的编辑分类
+kEvidence|Published numerical reports|已发布数值报告案例
+mapEyebrow|GEOGRAPHICAL DISTRIBUTION|地理分布
+mapTitle|Where origin becomes identity.|产地赋予产品身份。
+mapAria|Map of Brazil. Select a state to filter registrations.|巴西地图。选择一个州以筛选注册记录。
+fewer|Fewer|较少
+moreRecords|More registrations|更多注册
+timeline|First registration by|首次注册截至
+mapNote|Counts by state, not GI boundaries. The timeline uses the first date in the current lists; it does not reconstruct discontinued registrations or the recognition type in force in each year.|地图显示各州注册数量，而非地理标志边界。时间轴采用当前名录中的首次注册日期，不重建已失效的记录，也不表示各年份当时的认定类型。
+categoriesEyebrow|PRODUCT DIVERSITY|产品多样性
+categoriesTitle|What each place reveals.|每个地方的特色产品。
+categoriesAria|Registration counts by product family|按产品类别统计的注册数量
+categoriesNote|Select a bar to filter. Each registration belongs to one family. Different products sharing a geographical name remain separate.|点击条形即可筛选。每项注册归入一个类别。同一地理名称下的不同产品保留为独立记录。
+insightsEyebrow|THE STORY BEHIND THE DATA|数据背后的故事
+insightsTitle|From the map to understanding.|从地图走向理解。
+insightsSubtitle|Patterns calculated for your selection, with the context they need.|为当前筛选范围计算数据规律，并提供必要的解读背景。
+computed|Calculated for your selection|根据当前筛选计算
+rankingTitle|Leading states|重点州
+rankingHint|Click to explore|点击探索
+rankingNote|Each registration is counted in every state it covers. This ranking measures registrations, not production, quality or revenue.|跨州注册在所覆盖的每个州均计数一次。排名反映注册数量，而非产量、品质或收入。
+nextStepEyebrow|FROM INSIGHT TO ACTION|从洞察到行动
+nextStepTitle|Recognition is the starting point.|认定只是起点。
+nextStepText|Registration concentration shows where formal recognition exists. To assess opportunities, investigate label adoption, sales channels, scale and costs in each value chain.|注册集中度显示正式认定的分布。评估机会时，还需了解各产业链的标志使用率、销售渠道、规模和成本。
+testScenario|Test my assumptions|测试我的假设
+valueEyebrow|02 / ORIGIN & VALUE|02 / 产地与价值
+valueTitle|What we know about price gains.|关于价格提升，我们知道什么。
+valueSubtitle|Four cases, different measures. Evidence needs context.|四个案例，采用不同指标。证据需要结合背景解读。
+noAverage|No estimated national average|未估算全国平均值
+valueIntroTitle|A higher price is not the whole story.|价格上涨并非故事的全部。
+valueIntroText|Quality, ageing, brand, sales channel and inflation also affect prices. The reports and expectations below do not isolate the causal effect of a GI. This dataset lacks comparable prices and costs to estimate value added or an average national gain.|品质、熟成时间、品牌、销售渠道和通胀都会影响价格。下列报告与预期未分离地理标志的因果效应。本数据缺乏可比的价格和成本，无法估算增加值或全国平均收益。
+mechanism1Title|Identity that sets products apart|形成差异化的产地身份
+mechanism1Text|Origin can communicate tradition, reputation and distinctive product characteristics to buyers.|原产地可以向买家传达传统、声誉以及产品的独特特征。
+mechanism2Title|Channels that connect|拉近距离的销售渠道
+mechanism2Text|Traceability, direct sales and tourism are possible routes to greater value. Their outcomes need to be measured.|可追溯性、直销和旅游可能带来价值提升，但其成效仍需衡量。
+mechanism3Title|Management that sustains|支撑发展的管理
+mechanism3Text|Control, compliance and management involve costs. The balance depends on label adoption and the volume sold at a premium.|监管、合规和管理均有成本。净增收益取决于标志使用率及溢价销售量。
+simEyebrow|03 / SCENARIO LAB|03 / 情景实验室
+simTitle|What if origin made a difference?|如果产地带来溢价，会怎样？
+simSubtitle|Test a price premium and see what remains after additional costs.|测试价格溢价，观察扣除新增成本后还剩多少。
+resetSim|↺ Reset example|↺ 重置示例
+simInputEyebrow|YOUR ASSUMPTIONS · HYPOTHETICAL SCENARIO|您的假设 · 假设情景
+priceLabel|Base price (BRL/unit)|基准价格（巴西雷亚尔/单位）
+volumeLabel|Volume sold (units/year)|销售量（单位/年）
+shareLabel|Volume sold with the label (%)|使用标志的销售量占比（%）
+costLabel|Extra cost per labelled unit (BRL)|每标志产品单位新增成本（雷亚尔）
+fixedLabel|Extra fixed costs (BRL/year)|新增固定成本（雷亚尔/年）
+premiumLabel|Hypothetical price premium (%)|假设价格溢价（%）
+explorePremium|Explore the premium|调整溢价
+simNote|Use the same unit for price, volume and cost. Values in Brazilian reais (BRL), with no currency conversion. Total volume is held constant; costs are incremental only. Changes in demand, additional taxes, initial investment and the cost of capital are excluded.|价格、销量和成本须采用相同单位。金额以巴西雷亚尔（BRL）计，不进行汇率换算。总销量保持不变，仅计新增成本；不包括需求变化、额外税费、初始投资或资本成本。
+simResult|ANNUAL INCREMENTAL BALANCE|年度净增收益
+sensitivityTitle|Where is break-even?|盈亏平衡点在哪里？
+sensitivityAria|Incremental balance by hypothetical price premium|不同假设价格溢价下的净增收益
+sensitivityNote|Same volume, adoption and costs. Dashed line = zero balance.|销量、使用率和成本不变。虚线代表净增收益为零。
+formulaTitle|Understand the calculation|了解计算方法
+formulaText|Labelled units = volume × labelled share. Additional revenue = base price × premium × labelled units. Extra costs = extra unit cost × labelled units + fixed costs. Incremental balance = additional revenue − extra costs. Break-even premium = extra costs ÷ (base price × labelled units). With no labelled units, break-even cannot be calculated. This balance is neither total profit nor national-accounts value added.|标志产品数量 = 总销量 × 使用标志的比例。新增收入 = 基准价格 × 溢价率 × 标志产品数量。新增成本 = 单位新增成本 × 标志产品数量 + 固定成本。净增收益 = 新增收入 − 新增成本。盈亏平衡溢价率 = 新增成本 ÷（基准价格 × 标志产品数量）。标志产品数量为零时，无法计算平衡点。此结果并非总利润，也非国民经济核算中的增加值。
+gross|Gross additional revenue|新增总收入
+extraCosts|Incremental costs|新增成本
+dataEyebrow|04 / EXPLORE THE RECORDS|04 / 查询注册记录
+dataTitle|Every origin has a story.|每个产地都有自己的故事。
+export|↓ Export selection as CSV|↓ 导出筛选结果 CSV
+colOrigin|Origin ↕|产地 ↕
+colProduct|Product ↕|产品 ↕
+colState|State|州
+colType|Type ↕|类型 ↕
+colDate|First registration ↕|首次注册 ↕
+colEvidence|Price evidence|价格证据
+prev|← Previous|← 上一页
+next|Next →|下一页 →
+tableNote|Open an origin to see its product, applicant, boundaries and dates. Proper names and official texts remain in Portuguese and are identified as such. No evidence does not mean zero price gains.|打开产地记录可查看产品、申请人、边界和日期。专有名称与官方文本保留葡萄牙语并作出标注。没有证据并不意味着价格提升为零。
+methodEyebrow|TRANSPARENCY IN EVERY READING|透明解读数据
+methodTitle|Open sources.<br>Explicit limits.|公开来源。<br>明确局限。
+methodDate|Retrieved and extracted on 27 October 2026. A snapshot of official lists, with no automatic updates.|查询与提取日期：2026年10月27日。内容为官方名录快照，不自动更新。
+coverageTitle|What is covered|覆盖范围
+coverageText|137 Brazilian IPs in the 29 September 2026 list and 35 Brazilian DOs in the 20 October 2026 list: 172 registrations. The initial filter excludes one service registration. Foreign origins and recognition through agreements are excluded. A multi-state GI counts once nationally and once in each covered state, so state totals may exceed the national total.|2026年9月29日名录含137项巴西来源标志（IP），2026年10月20日名录含35项巴西原产地名称（DO），合计172项注册。默认筛选排除一项服务注册。不含外国原产地及通过协议认可的项目。跨州地理标志在全国总数中计一次，在各覆盖州分别计一次，因此各州总和可能超过全国总数。
+recordsMethodTitle|Products, territories and dates|产品、产地与日期
+recordsMethodText|Unit of analysis: INPI registration number. Repeated names may refer to different products or recognition types. Product families are an editorial classification. Search includes the territory description, without assuming every mentioned municipality is wholly inside a GI. IP-to-DO conversions retain the first date; details preserve official wording. State geometry: simplified IBGE boundaries, not GI polygons.|分析单位为 INPI 注册号。重复名称可能对应不同产品或认定类型。产品类别为编辑分类。搜索涵盖地域描述，但不假定被提及的城市全部属于该地理标志。IP 转为 DO 时保留首次注册日期，详情保留官方措辞。州界采用简化的 IBGE 地理数据，不是地理标志边界。
+insightsMethodTitle|How insights are calculated|洞察的计算方法
+insightsMethodText|Leading product family: share of the largest family in the selection. Concentration: unique registrations covered by the three leading states, with no double counting in the percentage. Recent registrations: first date within the five years ending in the selected year. IP/DO mix: type in the current lists. State ranking: one count per covered state. These describe formal recognition, not economic performance.|主要产品类别：当前筛选中注册最多的类别所占比例。集中度：排名前三州覆盖的不重复注册数，其百分比不重复计数。近期注册：首次注册日期在截至所选年份的五年内。IP/DO 构成：采用当前名录中的类型。州排名：每项注册在覆盖州各计一次。以上描述正式认定情况，不衡量经济绩效。
+valueMethodTitle|How to interpret price gains|如何解读价格提升
+valueMethodText|Exploratory curation of four cases, not an exhaustive systematic review. Price differentials, cumulative increases and expectations are distinct measures from different periods. Do not average or extrapolate them. Missing samples and controls remain limitations; figures are not inflation-adjusted. The conflicting socol registration date in Sebrae material is flagged; the INPI date takes precedence.|选取四个案例进行探索性整理，并非穷尽性的系统综述。价格差异、累计涨幅和预期来自不同时期，含义也不同，不应求平均或外推。缺少样本与对照仍是证据局限；数值未经通胀调整。Sebrae 资料中 socol 注册日期的矛盾已标注，以 INPI 日期为准。
+sourcesTitle|Sources and reproducibility|来源与复现
+sourceIp|INPI · Indications of Provenance (29 Sep 2026) ↗|INPI · 来源标志名录（2026年9月29日）↗
+sourceDo|INPI · Denominations of Origin (20 Oct 2026) ↗|INPI · 原产地名称名录（2026年10月20日）↗
+sourceGuide|INPI · basic guide to GIs ↗|INPI · 地理标志基础指南 ↗
+sourceMap|IBGE · territorial boundaries ↗|IBGE · 行政区域边界 ↗
+downloadData|Download registrations as JSON (original)|下载注册数据 JSON（原文）
+downloadEvidence|Download evidence (original)|下载证据资料（原文）
+downloadOffline|Download the complete portal for offline use|下载完整门户以离线使用
+sourcesNote|To assess a commercial premium, collect prices and costs by product, quality, unit, channel, harvest and period; compare labelled and unlabelled products under equivalent conditions. This portal does not contain such a transaction dataset.|评估商业溢价时，应按产品、品质、单位、渠道、收获季及时间段收集价格和成本，在同等条件下比较使用与不使用标志的产品。本门户不包含此类交易数据。
+translationTitle|Languages and original texts|语言与原始文本
+translationText|The interface and product descriptions are available in Portuguese, English and Simplified Chinese. Translations are for information. Origin names, applicants, boundary descriptions and registration changes are preserved in their official language for direct comparison with INPI. External sources retain their publication languages.|界面和产品描述提供葡萄牙语、英语及简体中文。译文仅供参考。产地名称、申请人、边界描述和注册变更保留官方语言，便于与 INPI 原文核对。外部来源保留其原始发布语言。
+footerText|Products, people and the value of place.<br>Official data · exploratory analysis · editable scenarios|产品、人文与产地的价值。<br>官方数据 · 探索性分析 · 可编辑情景
+backTop|Back to top ↑|返回顶部 ↑
+close|Close details|关闭详情

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-27",
+  "checks": "passed",
+  "records": 172,
+  "products": 171,
+  "services": 1,
+  "IP": 137,
+  "DO": 35,
+  "states": 26,
+  "evidence_cases_reported": 3,
+  "evidence_cases_prospective": 1,
+  "sha256": {
+    "data/raw/do.pdf": "82466bd3f36a2d7321e477aaf14b67897138e5276bd369335780e758430d7991",
+    "data/raw/ip.pdf": "cdc3097e747c5645bdd10700bd398d20ac413ea0ff36160c2ae0b6bfebfd2479"
+  }
+}

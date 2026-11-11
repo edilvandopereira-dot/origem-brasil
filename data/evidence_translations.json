@@ -1,0 +1,14 @@
+{
+ "en":[
+  {"product":"Wine · RS","kind":"Case study","metric":"Reported price premium","description":"Molinari and Padula describe a price premium of 20% to 30% for wines meeting the IP requirements.","limit":"Qualitative research, with no controlled comparison. The range is neither a causal estimate nor a current price quote.","label":"RESR · Molinari & Padula, 2013"},
+  {"product":"Cheese · MG","kind":"Published survey","metric":"Reported cumulative price increase","description":"A Sebrae infographic from December 2022 reports a cumulative 214% increase in the price of this cheese.","limit":"The infographic does not specify the sample, initial and final prices, exact period or inflation adjustment. It does not isolate the label's role.","label":"Sebrae · infographic, Dec 2022"},
+  {"product":"Socol · ES","kind":"Published survey","metric":"Reported cumulative price increase","description":"The same infographic reports a cumulative 535% price increase for socol.","limit":"It states GI recognition since 2013, but the official INPI list records 12 June 2018. Period and sample are unspecified. This discrepancy is retained; the full increase must not be attributed to the GI.","label":"Sebrae · infographic, Dec 2022"},
+  {"product":"Golden grass · TO","kind":"Stated expectation","metric":"Potential mentioned by a researcher","description":"An April 2026 UFT news article mentions a possible 20% to 50% increase in the final price.","limit":"An expectation, not a measured gain. The article reports barriers to implementing the label; it does not establish that they were resolved after April 2026.","label":"UFT · research news, Apr 2026"}
+ ],
+ "zh":[
+  {"product":"葡萄酒 · RS","kind":"案例研究","metric":"报告的价格溢价","description":"Molinari 与 Padula 描述，符合 IP 要求的葡萄酒具有20%—30%的价格溢价。","limit":"定性研究，缺少受控比较。该区间既不是因果效应估计，也不是当前报价。","label":"RESR · Molinari 与 Padula，2013年"},
+  {"product":"奶酪 · MG","kind":"已发布调查","metric":"报告的累计价格涨幅","description":"Sebrae 于2022年12月发布的信息图称，该奶酪价格累计上涨214%。","limit":"图中未列出样本、初始与最终价格、精确时间区间或通胀调整，也未分离标志本身的作用。","label":"Sebrae · 信息图，2022年12月"},
+  {"product":"Socol 腌肉 · ES","kind":"已发布调查","metric":"报告的累计价格涨幅","description":"同一信息图报告，socol 的价格累计上涨535%。","limit":"图中称2013年起获得地理标志，但 INPI 官方名录记载为2018年6月12日。时期与样本未说明。此差异予以保留，不应将全部涨幅归因于地理标志。","label":"Sebrae · 信息图，2022年12月"},
+  {"product":"金草 · TO","kind":"公开预期","metric":"研究人员提及的潜力","description":"UFT 于2026年4月发布的新闻提到，最终价格可能上涨20%—50%。","limit":"这是预期，不是测得的收益。新闻指出标志实施存在障碍，不能据此确认这些障碍在2026年4月后已经解决。","label":"UFT · 科研新闻，2026年4月"}
+ ]
+}

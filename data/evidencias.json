@@ -1,0 +1,70 @@
+[
+  {
+    "ids": [
+      "IG200002"
+    ],
+    "name": "Vale dos Vinhedos",
+    "product": "Vinhos · RS",
+    "low": 20,
+    "high": 30,
+    "kind": "Estudo de caso",
+    "status": "relatado",
+    "year": 2013,
+    "metric": "Acréscimo de preço relatado",
+    "description": "Molinari e Padula descrevem um diferencial de preço de 20% a 30% para os vinhos que atendiam às exigências da IP.",
+    "limit": "Pesquisa qualitativa. Sem comparação controlada; a faixa não é uma estimativa causal nem uma cotação atual.",
+    "source": "https://www.scielo.br/j/resr/a/jyW4VgjpJtbxcmhCmXR8kvD/?lang=pt",
+    "label": "RESR · Molinari & Padula, 2013"
+  },
+  {
+    "ids": [
+      "IG201002"
+    ],
+    "name": "Canastra",
+    "product": "Queijo · MG",
+    "low": 214,
+    "high": 214,
+    "kind": "Levantamento divulgado",
+    "status": "relatado",
+    "year": 2022,
+    "metric": "Valorização acumulada divulgada",
+    "description": "Infográfico do Sebrae de dezembro de 2022 informa aumento acumulado de 214% no preço do queijo.",
+    "limit": "Não informa nesta peça a amostra, os preços inicial e final, a janela exata ou ajuste pela inflação. Não isola o papel do selo.",
+    "source": "https://agenciasebrae.com.br/wp-content/uploads/2023/01/indicacao-geografica-dez-2022.pdf",
+    "label": "Sebrae · infográfico, dez. 2022"
+  },
+  {
+    "ids": [
+      "BR402014000002-6"
+    ],
+    "name": "Venda Nova do Imigrante",
+    "product": "Socol · ES",
+    "low": 535,
+    "high": 535,
+    "kind": "Levantamento divulgado",
+    "status": "relatado",
+    "year": 2022,
+    "metric": "Valorização acumulada divulgada",
+    "description": "O mesmo infográfico informa valorização acumulada de 535% para o socol.",
+    "limit": "A peça cita IG desde 2013, mas a lista oficial INPI registra 12/06/2018. Período e amostra não informados; manter a divergência visível. Não atribuir o aumento integral à IG.",
+    "source": "https://agenciasebrae.com.br/wp-content/uploads/2023/01/indicacao-geografica-dez-2022.pdf",
+    "label": "Sebrae · infográfico, dez. 2022"
+  },
+  {
+    "ids": [
+      "IG200902"
+    ],
+    "name": "Região do Jalapão",
+    "product": "Capim dourado · TO",
+    "low": 20,
+    "high": 50,
+    "kind": "Expectativa declarada",
+    "status": "potencial",
+    "year": 2026,
+    "metric": "Potencial mencionado por pesquisador",
+    "description": "Notícia da UFT de abril de 2026 cita uma possibilidade de aumento de 20% a 50% no preço final.",
+    "limit": "É expectativa, não ganho medido. A notícia relata entraves para implementação do selo; não confirma sua resolução após abril de 2026.",
+    "source": "https://www.uft.edu.br/noticias/capim-dourado-selo-de-origem-pode-proteger-tradicao-e-impulsionar-desenvolvimento-regional",
+    "label": "UFT · notícia de pesquisa, abr. 2026"
+  }
+]

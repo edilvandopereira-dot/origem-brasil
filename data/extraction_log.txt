@@ -1,0 +1,175 @@
+Source totals: {'ip': 138, 'do': 45} BR 172
+IP 137
+DO 35
+IG200002 Vale dos Vinhedos ['RS'] 2002 Vinhos: tinto, branco e espumante. Vinhos e espumantes
+IG990001 Região do Cerrado Mineiro ['MG'] 2005 Café Cafés
+IG200501 Pampa Gaúcho da Campanha Meridional ['RS'] 2006 Carne Bovina e derivados Carnes e pescados
+IG200702 Vale do Sinos ['RS'] 2009 Couro Acabado Artesanato e manufaturas
+IG200701 Vale do Submédio São Francisco ['PE', 'BA'] 2009 Uvas de Mesa e Manga Frutas e derivados
+IG200803 Pinto Bandeira ['RS'] 2010 Vinhos tintos, brancos e espumantes Vinhos e espumantes
+IG200902 Região do Jalapão do Estado do Tocantins ['TO'] 2011 Artesanato em Capim Dourado Artesanato e manufaturas
+IG200901 Pelotas ['RS'] 2011 Doces tradicionais de confeitaria e de frutas Doces e panificação
+IG201003 Goiabeiras ['ES'] 2011 Panelas de barro Artesanato e manufaturas
+IG201001 Serro ['MG'] 2011 Queijo Minas Artesanal do Serro Queijos e laticínios
+IG201010 São João del-Rei ['MG'] 2012 Peças artesanais em estanho Artesanato e manufaturas
+IG201012 Franca ['SP'] 2012 Calçados Artesanato e manufaturas
+IG201002 Canastra ['MG'] 2012 Queijo Queijos e laticínios
+IG201014 Pedro II ['PI'] 2012 Opala preciosa de Pedro II e joias artesanais de opalas de Pedro II Rochas e gemas
+IG201007 Cachoeiro de Itapemirim ['ES'] 2012 Mármore Rochas e gemas
+IG200903 Norte Pioneiro do Paraná ['PR'] 2012 café verde em grão e industrializado torrado em grão e ou moído Cafés
+IG200909 Linhares ['ES'] 2012 Amêndoas do cacau Cacau e chocolate
+IG200904 Paraíba ['PB'] 2012 Têxteis de algodão natural colorido Artesanato e manufaturas
+IG200908 Região de Salinas ['MG'] 2012 Aguardente de cana tipo cachaça Destilados e bebidas
+IG201103 Porto Digital ['PE'] 2012 Serviços de Tecnologia de Informação e comunicação através de desenvolvimento, manutenção e sup Serviços
+BR402012000002-0 Altos Montes ['RS'] 2012 Vinhos e espumantes Vinhos e espumantes
+IG201107 Divina Pastora ['SE'] 2012 Renda de agulha em Lacê Artesanato e manufaturas
+201104 São Tiago ['MG'] 2013 Biscoito Doces e panificação
+IG200703 Alta Mogiana ['SP', 'MG'] 2013 Café Cafés
+IG201108 Mossoró ['RN'] 2013 Melão Frutas e derivados
+BR402012000005-5 Cariri Paraibano ['PB'] 2013 Renda renascença Artesanato e manufaturas
+BR402012000006-3 Monte Belo ['RS'] 2013 Vinhos e espumantes Vinhos e espumantes
+BR402012000004-7 Piauí ['PI'] 2014 Cajuína Destilados e bebidas
+BR2012000003-9 Rio Negro ['AM'] 2014 Peixes Ornamentais Carnes e pescados
+BR402012000001-2 Microrregião Abaíra ['BA'] 2014 Aguardente de Cana do Tipo Cachaça Destilados e bebidas
+BR2013000004-0 Pantanal ['MS', 'MT'] 2015 Mel Mel e própolis
+BR402014000006-9 Farroupilha ['RS'] 2015 Vinho Fino Branco Moscatel, Vinho Moscatel Espumante; Vinho Frisante Moscatel; Vinho Licoroso M Vinhos e espumantes
+BR402014000007-7 Maracaju ['MS'] 2015 Linguiça Carnes e pescados
+BR402013000006-6 Região de Mara Rosa ['GO'] 2016 Açafrão Especiarias e ervas
+BR402014000012-3 Região das Lagoas Mundaú-Manguaba ['AL'] 2016 Bordado Filé Artesanato e manufaturas
+BR402015000008-8 Carlópolis ['PR'] 2016 Goiaba Frutas e derivados
+BR402014000001-8 Região de Pinhal ['SP'] 2016 Café Verde e Café Torrado e Moído Cafés
+BR402014000004-2 Região São Bento de Urânia ['ES'] 2016 Inhame Hortaliças e raízes
+BR402015000003-7 Marialva ['PR'] 2017 Uvas Finas de Mesa Frutas e derivados
+BR402015000011-8 São Matheus ['PR'] 2017 Erva-mate Especiarias e ervas
+BR402015000012-6 Oeste do Paraná ['PR'] 2017 Mel de abelha Apis Melífera Escutelata (Apis Africanizada) - Mel de abelha Tetragonisca Angustu Mel e própolis
+BR402015000002-9 Cruzeiro do Sul ['AC'] 2017 Farinha de Mandioca Farinhas e grãos
+BR402015000001-0 Maués ['AM'] 2018 Guaraná Outras culturas e extrativismo
+BR402014000011-5 Sul da Bahia ['BA'] 2018 Amêndoas de cacau (Theobroma cacao L.) Cacau e chocolate
+BR402015000010-0 Colônia Witmarsum ['PR'] 2018 Queijo Queijos e laticínios
+BR402014000002-6 Venda Nova do Imigrante ['ES'] 2018 Socol Carnes e pescados
+BR402014000009-3 Sabará ['MG'] 2018 Derivados de jabuticaba: licor, geleia, molho, casca cristalizada e compota Frutas e derivados
+BR402014000010-7 Tomé-Açu ['PA'] 2019 Cacau Cacau e chocolate
+BR402014000005-0 Oeste da Bahia ['BA'] 2019 Café verde em grãos, da espécie Coffea arábica Cafés
+BR402017000008-3 Pirenópolis ['GO'] 2019 Joias artesanais em prata Artesanato e manufaturas
+BR402017000003-2 Uarini ['AM'] 2019 Farinha de mandioca Farinhas e grãos
+BR402015000009-6 Capanema ['PR'] 2019 Melado batido e melado escorrido Doces e panificação
+BR402017000009-1 Campanha Gaúcha ['RS'] 2020 Vinho Vinhos e espumantes
+BR402017000004-0 Novo Remanso ['AM'] 2020 Abacaxi Frutas e derivados
+BR402018000001-9 Caicó ['RN'] 2020 Bordado Artesanato e manufaturas
+BR402018050006-2 Porto Ferreira ['SP'] 2020 Cerâmica artística Artesanato e manufaturas
+BR402019000013-5 Campo das Vertentes ['MG'] 2020 Café em grão crus, beneficiados, torrados e torrados moídos Cafés
+BR402018000002-7 Matas de Minas ['MG'] 2020 Café em grãos crus, beneficiados, torrados e torrados e moídos Cafés
+BR402019000009-7 Antonina ['PR'] 2020 Bala de banana Frutas e derivados
+BR402018050007-0 Marajó ['PA'] 2021 Queijo Queijos e laticínios
+BR402020000002-7 Espírito Santo ['ES'] 2021 Café conilon Cafés
+BR402019000001-1 Bragança ['PA'] 2021 Farinha de mandioca Farinhas e grãos
+BR402020000003-5 Jaguaruana ['CE'] 2021 Redes Artesanato e manufaturas
+BR402018000004-3 Gramado ['RS'] 2021 Chocolate artesanal Cacau e chocolate
+BR402020000008-6 Santa Catarina ['SC'] 2021 Vinhos: vinho fino, vinho nobre, vinho licoroso, espumante natural e vinho moscatel espumante;  Vinhos e espumantes
+BR402020000006-0 Resende Costa - MG ['MG'] 2021 Artesanatos têxteis produzidos por tear manual e produção manual Artesanato e manufaturas
+BR402020000007-8 Região de São Gotardo ['MG'] 2022 Hortifrútis: abacate, alho, batata e cenoura Hortaliças e raízes
+BR402020000016-7 Região do Jaíba ['MG'] 2022 Frutas: banana, manga, mamão e lima ácida tahiti Frutas e derivados
+BR402020000015-9 Norte Pioneiro ['PR'] 2022 Morango Frutas e derivados
+BR402021000001-1 Bituruna ['PR'] 2022 Vinhos Vinhos e espumantes
+BR402020000021-3 Vale do São Francisco ['PE', 'BA'] 2022 Vinho fino, vinho nobre, espumante natural e vinho moscatel espumante Vinhos e espumantes
+BR402021000006-2 Espírito Santo ['ES'] 2022 Pimenta-do-reino Especiarias e ervas
+BR402020000017-5 Região de Garça ['SP'] 2022 Café da espécie Coffea arabica em grãos verdes (café cru), em grãos torrados e em grãos torrado Cafés
+BR402021000004-6 Litoral do Paraná ['PR'] 2022 Barreado Pratos tradicionais
+BR402021000009-7 Birigui ['SP'] 2023 Calçado infantil Artesanato e manufaturas
+BR402021000005-4 Jundiahy ['SP'] 2023 Uva Niagara Rosada Frutas e derivados
+BR402021000007-0 São Mateus ['ES'] 2023 Pimenta-rosa Especiarias e ervas
+BR402022000007-3 Sudoeste de Minas ['MG'] 2023 Café em grãos crus, beneficiados, torrados e torrados e moídos Cafés
+BR402022000008-1 Cerrado ['MG'] 2023 Queijo de leite de vaca cru integral Queijos e laticínios
+BR402022000003-0 Vale do Jamari ['RO'] 2023 Tambaqui peixe amazônico (Colossoma macropomum), in natura e processado Carnes e pescados
+BR402022000006-5 Feijó ['AC'] 2023 Açaí Frutas e derivados
+BR402022000004-9 Rondônia ['RO'] 2023 Cacau em amêndoas - Theobroma cacao Cacau e chocolate
+BR402020000005-1 Morretes ['PR'] 2023 Aguardente de cana e cachaça Destilados e bebidas
+BR402022000016-2 Mandirituba ['PR'] 2024 Camomila desidratada Especiarias e ervas
+BR402022000017-0 Blumenau ['SC'] 2024 Linguiça (de carne suína pura e defumada) Carnes e pescados
+BR402022000015-4 Codajás ['AM'] 2024 Açaí Frutas e derivados
+BR402022000023-5 Viçosa do Ceará ['CE'] 2024 Cachaça Destilados e bebidas
+BR402022000011-1 Raposa ['RR'] 2024 Panela de barro Artesanato e manufaturas
+BR402022000018-9 Sapê do Norte ['ES'] 2024 Beiju Farinhas e grãos
+BR402022000022-7 Autazes ['AM'] 2024 Queijo Queijos e laticínios
+BR402022000024-3 Região dos Inhamuns ['CE'] 2024 Algodão agroecológico (Gossypium hirsutum L.) Artesanato e manufaturas
+BR402023000011-4 Jaguaribe ['CE'] 2024 Peças artesanais em renda filé Artesanato e manufaturas
+BR402023000007-6 Porto Grande ['AP'] 2024 Abacaxi Frutas e derivados
+BR402023000009-2 Vale da Grama ['SP'] 2024 Café arábica Cafés
+BR402022000010-3 Luiz Alves ['SC'] 2024 Banana Frutas e derivados
+BR402023000002-5 Curitiba ['PR'] 2025 Broas de centeio Doces e panificação
+BR402023000016-5 Prudentópolis ['PR'] 2025 Cracóvia (embutido de pernil suíno temperado e defumado) Carnes e pescados
+BR402023000004-1 Região de Machadinho ['RS'] 2025 Erva-mate Especiarias e ervas
+BR402023000001-7 Sul de Minas ['MG'] 2025 Vinhos de inverno elaborados a partir de uvas Vitis vinifera L. Vinhos e espumantes
+BR402023000006-8 Inhamuns ['CE'] 2025 Mel de aroeira Mel e própolis
+BR402023000008-4 Bailique ['AP'] 2025 Açaí Frutas e derivados
+BR402023000012-2 Alegria ['CE'] 2025 Peças de cerâmica Artesanato e manufaturas
+BR402023000013-0 Paranacity ['PR'] 2025 Urucum Outras culturas e extrativismo
+BR402023000018-1 Curitiba ['PR'] 2025 Carne de onça Carnes e pescados
+BR402023000019-0 Torrinha ['SP'] 2025 Café arábica Cafés
+BR402023000015-7 Sudoeste do Paraná ['PR'] 2025 Queijo Colonial Queijos e laticínios
+BR402023000021-1 Cristalina ['GO'] 2025 Cristais (Quartzo) Rochas e gemas
+BR402023000023-8 Cerro Azul ['PR'] 2025 Tangerina ponkan Frutas e derivados
+BR402023000026-2 Saubara - BA ['BA'] 2025 Renda de bilro Artesanato e manufaturas
+BR402023000027-0 Vale do Paraíba ['SP'] 2025 Mel de abelha Apis mellifera Mel e própolis
+BR402024000002-8 Aquiraz ['CE'] 2025 Peças artesanais com renda de bilro Artesanato e manufaturas
+BR402023000022-0 Nova Alta Paulista ['SP'] 2025 Café Arábica Cafés
+BR402024000005-2 Pindoguaba ['CE'] 2025 Artesanato produzido a partir da fibra do vegetal denominado “croá”. Artesanato e manufaturas
+BR402024000013-3 Cabaraquara ['PR'] 2025 Ostras Carnes e pescados
+BR402024000010-9 Vale do Ribeira ['SP'] 2025 Palmito pupunha Hortaliças e raízes
+BR402024000019-2 Serra do Mel ['RN'] 2025 Castanha de caju Frutas e derivados
+BR402024000006-0 Boa Vista do Ramos ['AM'] 2025 Mel Mel e própolis
+BR402024000014-1 Areia - PB ['PB'] 2025 Cachaça Destilados e bebidas
+BR402024000017-6 Orizona ['GO'] 2025 Cachaça Destilados e bebidas
+BR402024000018-4 Carambeí ['PR'] 2026 Tortas Doces e panificação
+BR402024000026-5 Santana do São Francisco ['SE'] 2026 Artesanato de barro Artesanato e manufaturas
+BR402024000007-9 Bom Jesus da Lapa ['BA'] 2026 Banana (Musa spp.) Frutas e derivados
+BR402024000009-5 Taubaté ['SP'] 2026 Figuras modeladas em argila. Artesanato e manufaturas
+BR402025000013-6 Chapada de Minas ['MG'] 2026 Café Cafés
+BR402024000016-8 Serra de Baturité ['CE'] 2026 Café da espécie arábica (Coffea arabica L) Cafés
+BR402024000008-7 Vale do Ribeira-SP ['SP'] 2026 Banana Cavendish e Prata (Musa spp.) Frutas e derivados
+BR402025000016-0 Pontal do Paraná ['PR'] 2026 Couro de Peixe Artesanato e manufaturas
+BR402024000022-2 São Joaquim ['SC'] 2026 Frescal (Carne Salgada e dessecada) Carnes e pescados
+BR402025000009-8 Circuito das Águas Paulista ['SP'] 2026 Café em grão cru, café industrializado na condição de torra em grão e/ou torrado moído Cafés
+BR402025000007-1 Panambi ['RS'] 2026 Käsekuchen Doces e panificação
+BR402025000002-0 Palmeira ['PR'] 2026 Pão no Bafo Doces e panificação
+BR402025000011-0 Circuito das Águas Paulista ['SP'] 2026 Cachaça de Alambique Destilados e bebidas
+BR402025000006-3 Guarapuava ['PR'] 2026 Cervejas artesanais Destilados e bebidas
+BR402025000017-9 Rosário ['MA'] 2026 Cerâmica Artesanato e manufaturas
+BR402025000001-2 Região do Cará ['GO'] 2026 Polvilho Farinhas e grãos
+BR402026000006-6 Maranhão ['MA'] 2026 Tiquira Destilados e bebidas
+BR402026000008-2 Poção ['PE'] 2026 Peças artesanais com renda renascença Artesanato e manufaturas
+IG200801 Litoral Norte Gaúcho ['RS'] 2010 Arroz Farinhas e grãos
+IG200907 Costa Negra ['CE'] 2011 Camarões marinhos cultivados da espécie Litopenaeus Vannamei Carnes e pescados
+IG201009 Vales da Uva Goethe ['SC'] 2012 Vinho Branco Seco, Vinho Branco Suave ou Demi Séc, Vinho Leve Branco Seco, Vinho Leve Branco Su Vinhos e espumantes
+IG201004 Região Pedra Carijó Rio de Janeiro ['RJ'] 2012 Gnaisse fitado milonítico de coloração branca e pontos vermelhos de diâmetro geral inferior a 1 Rochas e gemas
+IG201005 Região Pedra Madeira Rio de Janeiro ['RJ'] 2012 Gnaisse fitado milonítico de coloração clara com quatro variedades de cor: branca, rosa, verde  Rochas e gemas
+IG201006 Região Pedra Cinza Rio de Janeiro ['RJ'] 2012 Gnaisse fitado milonítico de coloração cinza possuindo 3 variedades: “Olho de pombo”, “Pinta Ro Rochas e gemas
+IG201101 Manguezais de Alagoas ['AL'] 2012 Própolis vermelha e extrato de própolis vermelha Mel e própolis
+IG201008 Vale dos Vinhedos ['RS'] 2012 Vinho e espumantes Vinhos e espumantes
+IG201011 Região do Cerrado Mineiro ['MG'] 2013 Café verde em grão e café industrializado torrado em grão ou moído Cafés
+BR412013000002-0 Ortigueira ['PR'] 2015 Mel de abelha – Apis Mellífera Mel e própolis
+BR412013000005-4 Região da Própolis Verde de Minas Gerais ['MG'] 2016 Própolis Verde Mel e própolis
+BR412016000003-6 Região de Corupá ['SC'] 2018 Banana (subgrupo Cavendish) Frutas e derivados
+BR412017000006-3 Campos de Cima da Serra ['SC', 'RS'] 2020 Queijo Artesanal Serrano Queijos e laticínios
+IG200704 Mantiqueira de Minas ['MG'] 2011 Café verde em grão e café industrializado torrado em grão ou moído Cafés
+BR412016000005-2 Terra Indígena Andirá-Marau ['AM', 'PA'] 2020 Waraná (guaraná nativo) e pães de waraná (bastão de guaraná) Outras culturas e extrativismo
+BR412019000005-0 Caparaó ['ES', 'MG'] 2021 Café da espécie Coffea arabica: em grãos verde (café cru), industrializado na condição de torra Cafés
+BR412019000017-4 Montanhas do Espírito Santo ['ES'] 2021 Café Cafés
+BR412020000004-0 Matas de Rondônia ['RO'] 2021 Café em grão robustas amazônicos Cafés
+BR412020000009-0 Mamirauá ['AM'] 2021 Pirarucu manejado Carnes e pescados
+BR412020000011-2 Planalto Sul Brasileiro ['SC', 'PR', 'RS'] 2021 Mel de melato da bracatinga Mel e própolis
+BR412020000010-4 Região de São Joaquim ['SC'] 2021 Maçã Fuji Frutas e derivados
+BR412019000018-2 Norte de Minas ['MG'] 2022 Mel de abelha Apis mellifera L. produzido a partir da aroeira Myracrodruon urundeuva Allemão e  Mel e própolis
+BR412020000014-7 Planalto Norte Catarinense ['SC'] 2022 Erva-mate Especiarias e ervas
+BR412020000018-0 Região de Tanguá ['RJ'] 2022 Laranjas da espécie Citrus sinensis das variedades Seleta, Natal Folha Murcha, Natal Comum Frutas e derivados
+BR412021000003-4 Altos de Pinto Bandeira ['RS'] 2022 Espumante natural Vinhos e espumantes
+BR412022000012-6 Canastra ['MG'] 2023 Café em grãos crus, beneficiados, torrados e torrados e moídos Cafés
+IG200602 Paraty ['RJ'] 2007 Cachaça Destilados e bebidas
+BR412018050005-0 Região Pedra São Thomé ['MG'] 2024 Quartzitos plaqueados e/ou foliados, utilizados prioritariamente como material de ornamentação  Rochas e gemas
+BR412022000009-6 Luiz Alves ['SC'] 2024 Cachaça e aguardente Destilados e bebidas
+BR412022000019-3 Chapada Diamantina ['BA'] 2024 Café Cafés
+BR412023000020-0 Mandaguari ['PR'] 2025 Café Cafés
+BR412025000003-5 Serra de Apucarana ['PR'] 2026 Café Cafés
+BR412024000015-6 Querência do Norte ['PR'] 2026 Ginseng Outras culturas e extrativismo
+BR412024000024-5 Planalto Catarinense ['SC'] 2026 Alho Roxo Hortaliças e raízes
+BR412025000004-3 Capanema ['PR'] 2026 Mel de abelha Mel e própolis
