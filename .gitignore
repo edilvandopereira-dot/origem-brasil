@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.pyc
+Origem_Brasil_painel_offline.html
